@@ -19,7 +19,7 @@
     },
     "WP_CACHE": {
       "description": "Enable caching via Memcachier and Batcache.",
-      "value": "true"
+      "value": "false"
     }
   },
   "addons": [
