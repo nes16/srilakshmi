@@ -25,6 +25,7 @@
   "addons": [
     "cleardb",
     "sendgrid",
+    "memcachier",
     "papertrail",
     "newrelic"
   ]
